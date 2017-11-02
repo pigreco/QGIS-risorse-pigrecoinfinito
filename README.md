@@ -1,6 +1,8 @@
 # QGIS-risorse-pigrecoinfinito
 Risorse da condividere mediante il plugin Resource sharing
 
+![serie](collections/logo-QGIS_3_minimal_ITA/preview/serie_icon_Q3_ITA.png)
+
 procedimento per usare le risorse
 
 1. Scaricare ed installare il plugin [Reosurce sharing](http://www.akbargumbira.com/qgis_resources_sharing/) in QGIS;
