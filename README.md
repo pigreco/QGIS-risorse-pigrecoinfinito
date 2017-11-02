@@ -18,4 +18,8 @@ entrambe le risorse sono una collezione di immagini SVG quindi li ritroverete in
 consiglio di creare delle nuove `varibili` ed associargli i link alle risorse.
 
 `ConQGIStando`
+
+per maggiori dettagli: http://www.akbargumbira.com/qgis_resources_sharing/user/adding-repository.html
+
+video: https://www.youtube.com/watch?time_continue=38&v=77fglr3C2TU
  
