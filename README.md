@@ -25,4 +25,4 @@ per maggiori dettagli: http://www.akbargumbira.com/qgis_resources_sharing/user/a
 
 video: https://www.youtube.com/watch?time_continue=38&v=77fglr3C2TU
  
-![evoluzione](collections/logo-QGIS_3_minimal_ITA/preview/evolution qgis_ita.png)
+![evoluzione](collections/logo-QGIS_3_minimal_ITA/preview/evolution_qgis_ita_storia.png)
