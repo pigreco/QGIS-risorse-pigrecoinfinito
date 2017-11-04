@@ -1,6 +1,10 @@
 # QGIS-risorse-pigrecoinfinito
 Risorse da condividere mediante il plugin Resource sharing
 
+### Splash screen QGIS - Story
+![splash](collections/SplashScreen_QGIS/preview/from_2.0_to_2.18.gif)
+
+### loghi minimal QGIS ITA
 ![serie](collections/logo-QGIS_3_minimal_ITA/preview/serie_icon_Q3_ITA.png)
 
 procedimento per usare le risorse
